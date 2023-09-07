@@ -6,7 +6,7 @@
 
 .header {
     /*background-color: #222222;*/
-    background-color: #00338D;
+    background-color:#510DBC; /* # 00338D;*/
     color: #f2f2f2;
 }
 
@@ -76,4 +76,9 @@
 
 .githubLogo {
     height: 20px;
+}
+
+.companyLogo{
+    height:60px;
+    max-width:100px;
 }
